@@ -7,4 +7,4 @@ AdvancedTools replaces the original diamond and netherite textures and replaces 
 3. Open "Pack Folder"
 4. Unzip "AdvancedTools" and drag it into the resource packs folder
 5. Hover over the pack icon and press the > arrow to enable it
-6 (Optional). Press the ^ button to move the pack to the top of the list to avoid other packs interupting it
+6. (Optional) Press the ^ button to move the pack to the top of the list to avoid other packs interupting it
